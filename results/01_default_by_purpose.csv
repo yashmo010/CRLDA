@@ -1,0 +1,15 @@
+"purpose","loans","default_rate","pct_of_loans"
+"small_business",15570,0.299,1.2
+"renewable_energy",936,0.237,0.1
+"moving",9513,0.234,0.7
+"house",7292,0.219,0.5
+"medical",15603,0.218,1.2
+"debt_consolidation",780910,0.212,58.0
+"other",78233,0.211,5.8
+"educational",423,0.208,0.0
+"vacation",9080,0.192,0.7
+"major_purchase",29536,0.186,2.2
+"home_improvement",87641,0.178,6.5
+"credit_card",295466,0.169,21.9
+"car",14648,0.147,1.1
+"wedding",2350,0.124,0.2
